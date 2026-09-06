@@ -1,0 +1,15 @@
+# Secrets - NEVER commit these
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Generated outputs (optional: keep a sample, ignore the rest)
+outputs/*.json
+!outputs/.gitkeep

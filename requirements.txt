@@ -1,0 +1,10 @@
+insightface
+onnxruntime
+opencv-python-headless
+numpy
+requests
+pillow
+imagehash
+python-dotenv
+google-search-results
+web3
