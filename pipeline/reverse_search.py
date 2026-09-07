@@ -119,6 +119,7 @@ def run_google_lens_search(image_url: str) -> dict:
     return results
 
 
+
 def extract_visual_matches(serpapi_results: dict) -> list:
     """
     Normalizes SerpApi's google_lens response into a flat list of candidate
